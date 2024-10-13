@@ -34,7 +34,7 @@ This batch script deletes Group Policy-related folders on a specified remote com
 
 ## Usage
 
-1. **Run the Script: Execute the script in an elevated Command Prompt session.
+1. **Run the Script**: Execute the script in an elevated Command Prompt session.
    ```vbscript
    .\group-policy-refresher.bat
 
